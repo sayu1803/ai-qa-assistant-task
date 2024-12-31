@@ -8,6 +8,12 @@ To run the development server locally, use one of the following commands:
 
 ```bash
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 
 ```
 
