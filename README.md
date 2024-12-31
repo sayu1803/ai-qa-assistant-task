@@ -1,8 +1,6 @@
-## AI-QA Powered by GeminiAI
+## AI-QA assistant Powered by GeminiAI
 ```markdown
-# AI-QA Assistant
 
-This is a Next.js project bootstrapped with `create-next-app`.
 
 ## Getting Started
 
@@ -10,12 +8,7 @@ To run the development server locally, use one of the following commands:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
